@@ -3,7 +3,7 @@ Assume as though I'm completely new to AWS, so could you provide the list of the
 
 *************************************************************************
 Prompt 2 (Implementing the project idea)
-Let's build a (your-project-nme). Guide me step-by-step through every minute configuration, also make sure to give the names of whatever services we're going to be creating with the AWS Services. Also, tell me why and how we'll be using the AWS services here.
+Let's build a (your-project-name). Guide me step-by-step through every minute configuration, also make sure to give the names of whatever services we're going to be creating with the AWS Services. Also, tell me why and how we'll be using the AWS services here.
 
 *************************************************************************
 Prompt 3 (Advanced project ideas)
